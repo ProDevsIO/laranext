@@ -1,8 +1,6 @@
 
 # Laranext
 
-⚠⚠ it's currently in early stages
+it's currently in early stages
 
-🛑 Please don't use at the moment.
-
-[Documentation](http://laranext-docs.codedott.com/0.x/installation.html)
+We will expand and work on it and share our feedback with the original Author
